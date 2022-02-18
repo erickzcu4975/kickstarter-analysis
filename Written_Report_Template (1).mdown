@@ -1,0 +1,36 @@
+# Kickstarting with Excel
+
+## Overview of Project:
+Thru the dataset we can obtain outcomes based on launch dates, funding goals, actual funds. 
+
+### Purpose
+Make an interpretation of a series of variables, and their relationship with the outcomes on each category.
+Write a report with considerations, and recommendations.
+
+## Analysis and Challenges
+Graph 1 was created to show the relation between the launched date (in months) with the campaign outcome.
+Graph 2 was created to show the incidence of goal (encapsulate in ranges) in the outcome of the campaign.
+
+No challenges found.
+
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+Best months to launch a successful campaign  is from April-May to July, line slope is very sharp on those months.
+
+- What can you conclude about the Outcomes based on Goals?
+
+Between 66%-77% campaigns are successful if funding goal is < $1000, or if the goal is between 35k-45k.  
+
+- What are some limitations of this dataset?
+We don't have data about race, age, income, and how those variables are related to campaign outcome.
+
+- What are some other possible tables and/or graphs that we could create?
+To show more/deeper stats research. Or marginal analysis. 
